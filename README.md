@@ -1,5 +1,5 @@
 ### Hola! Soy Agustin 👋
-[<img align="left" alt="Banner | LinkedIn" width="240px" src="https://i.imgur.com/rpjwAHe.png" />][linkedin]
+[<img align="left" alt="Banner | LinkedIn" width="1280px" src="https://i.imgur.com/rpjwAHe.png" />][linkedin]
 ## Soy estudiante y desarollador Fullstack!
 
 - 🔭 Actualmente estoy buscando trabajo
