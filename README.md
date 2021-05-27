@@ -4,10 +4,9 @@
 <br />
 ## Soy estudiante y desarollador Fullstack!
 
-- 🔭 Actualmente estoy buscando trabajo
+- 🔭 Desarrollador Frontend en Midas Consultores
 - 🌱 Estoy aprendiendo nuevas tecnologías
 - 👯 Busco colaborar con otros desarrolladores
-- 🥅 2020 Metas: Portfolio +10 proyectos
 
 ### Contáctame:
 
